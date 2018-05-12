@@ -1,0 +1,32 @@
+_repo: The-Wedding-Ring--13-A-Series-of-Discourses-for-Husbands-and-Wives-and-Those-Contemplating-Ma__22343
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Talmage, T. De Witt (Thomas De Witt)
+    aliases:
+    - Talmage, T. DeWitt (Thomas De Witt)
+    - Talmage, Thomas De Witt
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '5618'
+    url: http://www.gutenberg.org/2009/agents/5618
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_De_Witt_Talmage
+description: ''
+gutenberg_issued: '2007-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22343'
+  lccn: 09005351
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage'
+- !lcc 'HQ'
+title: "The Wedding Ring\r\nA Series of Discourses for Husbands and Wives and Those\
+  \ Contemplating Matrimony"
+url: http://www.gutenberg.org/ebooks/22343
